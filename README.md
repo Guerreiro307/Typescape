@@ -8,3 +8,7 @@ use botoes("O") para detonar bombas("+") para destruir paredes("*") e espinhos("
 placas("X"), que lhe auxiliarao a encontrar o caminho ate a liberdade.
 
 Cuidado com os monstros("%") no caminho, principalmente com aquele que nao deseja a sua saida...
+
+
+
+Equipe: Vitor da Silva Guerreiro e Maria Eduarda Ribeiro Ramos
